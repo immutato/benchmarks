@@ -9,6 +9,8 @@
 'use strict';
 
 //TODO remove all unused gulp task
+//TODO correct task to build browser version for website
+
 
 var gulp = require('gulp');
 var loadPlugins = require('gulp-load-plugins');
