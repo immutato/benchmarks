@@ -65,7 +65,8 @@ To run the tests yourself in node, clone this repo, run `npm install` and then
 
 ##Status:
 
-
+* TODO : add mori comparison to the suites
+* TODO : add suite that use real data
 
 ## License
 [MIT](http://opensource.org/licenses/MIT) © 2014, Andrea Parodi
