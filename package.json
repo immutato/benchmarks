@@ -1,0 +1,56 @@
+{
+  "name": "immutato-benchmark",
+  "description": "benchmarks for immutato",
+  "version": "0.3.0",
+  "homepage": "http://www.parro.it/immutato",
+  "author": {
+    "name": "Andrea Parodi",
+    "email": "andrea.parodi@ebansoftware.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/immutato/benchmark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/immutato/benchmark/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "lib/all-benchmarks",
+  "engines": {
+    "node": ">=0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "ancient-oak": "^0.3.4",
+    "benchmark": "^1.0.0",
+    "gulp": "~3.8.6",
+    "gulp-bench": "^1.1.0",
+    "gulp-load-plugins": "^0.7.1",
+    "gulp-pure-cjs": "^0.1.2",
+    "gulp-sourcemaps": "^1.2.8",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^1.0.1",
+    "immutable": "~3.2.1",
+    "immutato": "*",
+    "immutato-types": "*",
+    "microtime": "^1.0.1",
+    "object-assign": "^1.0.0",
+    "through2": "^0.6.3"
+  },
+  "keywords": [
+    "immutable",
+    "data",
+    "structure",
+    "structures",
+    "type",
+    "assertion",
+    "js"
+  ]
+}
