@@ -8,6 +8,8 @@
 
 'use strict';
 
+//TODO remove all unused gulp task
+
 var gulp = require('gulp');
 var loadPlugins = require('gulp-load-plugins');
 var $ = loadPlugins({
