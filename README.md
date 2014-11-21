@@ -9,7 +9,7 @@ http://www.parro.it/immutato/benchmarks.html
 
 Results running on node.js v0.10.32 on my development machine:
 
-'''
+```
 Starting 'bench'...
 
 Running suite current vs prev version vs pojo -- create a copy of immutable object with changed property
@@ -57,7 +57,7 @@ Fastest test is pojo at 1.40x faster than current version
 
 
 Finished 'bench' after 3.37 min
-'''
+```
 
 To run the tests yourself in node, clone this repo, run `npm install` and then
 `gulp bench`
